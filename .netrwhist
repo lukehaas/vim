@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Code/terminal'
+let g:netrw_dirhist_2='/Code/Scrollify/demo/script'
+let g:netrw_dirhist_3='/Code/reactjs/snapterest'
+let g:netrw_dirhist_4='/Code/reactjs/snapterest/source'
