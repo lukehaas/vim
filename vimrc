@@ -18,4 +18,5 @@ set softtabstop=2 " number of spaces in tab when editing
 set expandtab " tabs are spaces
 set list " turn on invisibles
 set listchars=space:·
+set backspace=2
 
